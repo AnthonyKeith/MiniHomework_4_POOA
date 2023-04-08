@@ -17,6 +17,7 @@ public class MiniHomework_4_POOA {
         // TODO code application logic here
         System.out.println("This is the Secondary Branch of MiniHomework 4.");
         System.out.println("This is an edit on GitHub to the Secondary Branch");
+        System.out.println("The update via GitHub was successful to the Secondary Branch. Love, Netbeans");
 
         
     }
