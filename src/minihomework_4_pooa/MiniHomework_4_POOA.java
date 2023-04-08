@@ -1,3 +1,5 @@
+// Name: Anthony Keith Student no: sba22486 
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
@@ -18,7 +20,7 @@ public class MiniHomework_4_POOA {
         System.out.println("This is the Main Branch of MiniHomework 4.");
         System.out.println("This is an update using GitHub to edit the file.");
         System.out.println("I've fetched and pulled this update from Origin");
-        
+        System.out.println("Thanks for the reminder, name and student number added.");
     }
     
 }
