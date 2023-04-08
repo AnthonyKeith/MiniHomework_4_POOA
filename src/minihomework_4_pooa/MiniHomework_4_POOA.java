@@ -16,6 +16,7 @@ public class MiniHomework_4_POOA {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is the Third Branch of MiniHomework 4.");
+        System.out.println("Third branch successfully created.");
 
 
         
